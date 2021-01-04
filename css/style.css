@@ -1,4 +1,13 @@
+*{
+
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* estilos generales*/
+
 body{
 
-    background-color: red;
+    background: url("../img/background.jpg");
 }
